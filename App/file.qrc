@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ico/bowl.ico</file>
+    <file>1620799461_23-phonoteka_org-p-ovoshchi-fon-vektor-25-removebg.png</file>
+    <file>векторные овощи.png</file>
+    <file>логобезфона.png</file>
+    <file>smart.png</file>
+  </qresource>
+</RCC>
