@@ -1,3 +1,6 @@
-SF CALENDAR - coded by Shvetsov Egor
-ДЛЯ ЗАПУСКА НЕОБХОДИМО УСТАНОВИТЬ БИБЛИОТЕКИ
-PyQT5, random, datetime, sqlite3 (через pip install в cmd)
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+pyqt5-tools==5.13.0.1.5
+PyQtChart==5.15.4
+PyQtChart-Qt5==5.15.2
